@@ -16,3 +16,10 @@ when making changes to the existing file commands needed are add,commit and push
 >git add .
 git commit -m "testing"
 >git push
+
+CLONE
+>git clone "https://github.com/rohan-hari/Postman-Clone-React.git"
+
+>git status
+>git branch branchname
+>git checkout branchname--branchname can be anything you want it to be represented
