@@ -1,1 +1,4 @@
 GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time.
+
+What is the main advantage of GitHub?
+GitHub provides distributed version controls geared towards tracking and managing changes to software code. In line with this, several developers can work on a Git repository and track changes along the way. Further, every team member can access the database simultaneously to view previous versions.
